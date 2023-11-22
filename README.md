@@ -1,5 +1,9 @@
 # Mern Estate
-## Create update listing API route
+## Add image slider to the listing page
 
 > [!NOTE]
-> Create update listing API route
+> Add image slider to the listing page
+> Install `swiper` for slider. *Client side
+>```
+> npm i swiper
+>```
