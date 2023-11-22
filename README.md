@@ -1,2 +1,5 @@
 # Mern Estate
-## Complete create listing page functionality
+## Create get user listings API route
+
+> [!INFO]
+> Create get user listings API route
