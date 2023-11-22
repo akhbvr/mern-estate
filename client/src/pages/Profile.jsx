@@ -117,6 +117,20 @@ export default function Profile() {
     }
   }
 
+  const handleListingDelete = async (listignId) => {
+    try {
+      const res = await fetch(`/api/listing/delete/${listignId}`, {method: 'DELETE'})
+      const data = await res.json()
+      if(data.success === false){
+        console.log(data.message);
+        return;
+      }
+      setUserListings((prev) => prev.filter((listing) => listing._id !== listignId))
+    } catch (error) {
+      console.log(error.message);
+    }
+  }
+
   // firebase storage
   // allow read;
   // allow write: if
@@ -170,7 +184,7 @@ export default function Profile() {
               <p>{listing.name}</p>
             </Link>
             <div className="flex flex-col items-center">
-              <button className="uppercase text-red-700">Delete</button>
+              <button onClick={()=>handleListingDelete(listing._id)} className="uppercase text-red-700">Delete</button>
               <button className="uppercase text-green-700">Edit</button>
             </div>
           </div>
