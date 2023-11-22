@@ -1,5 +1,5 @@
 # Mern Estate
-## Complete delete user listings functionality
+## Create update listing API route
 
 > [!NOTE]
-> Complete delete user listings functionality
+> Create update listing API route
