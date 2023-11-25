@@ -1,6 +1,5 @@
 # Mern Estate
-## Create the listing item component and show listings
+## Add show more listings functionality
 
 > [!NOTE]
-> Create the listing item component and show listings
-> Go to [line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) and install configure `truncate`. className='line-clamp-2'
+> Add show more listings functionality
