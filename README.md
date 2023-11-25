@@ -1,5 +1,5 @@
 # Mern Estate
-## Create search API route
+## Complete header search form functionality
 
 > [!NOTE]
-> Create search API route
+> Complete header search form functionality
