@@ -1,5 +1,5 @@
 # Mern Estate
-## Complete header search form functionality
+## Create search page UI
 
 > [!NOTE]
-> Complete header search form functionality
+> Create search page UI
