@@ -1,5 +1,6 @@
 # Mern Estate
-## Add onChange and onSubmit functionality to the search page
+## Create the listing item component and show listings
 
 > [!NOTE]
-> Add onChange and onSubmit functionality to the search page
+> Create the listing item component and show listings
+> Go to [line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) and install configure `truncate`. className='line-clamp-2'
