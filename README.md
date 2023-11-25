@@ -1,5 +1,5 @@
 # Mern Estate
-## Complete home page
+## Complete about page
 
 > [!NOTE]
-> Complete home page
+> Complete about page
