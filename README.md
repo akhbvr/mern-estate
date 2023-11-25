@@ -1,5 +1,5 @@
 # Mern Estate
-## Create search page UI
+## Add onChange and onSubmit functionality to the search page
 
 > [!NOTE]
-> Create search page UI
+> Add onChange and onSubmit functionality to the search page
