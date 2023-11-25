@@ -107,7 +107,6 @@ export const getListings = async (req, res, next) => {
             type
         }).sort({ [sort]: order }).limit(limit).skip(startIndex);
 
-        console.log(listings);
         return res.status(200).json(listings);
         
     } catch (error) {
