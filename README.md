@@ -1,5 +1,5 @@
 # Mern Estate
-## Add show more listings functionality
+## Complete home page
 
 > [!NOTE]
-> Add show more listings functionality
+> Complete home page
