@@ -1,5 +1,5 @@
 # Mern Estate
-## Add contact landlord functionality to the listing page
+## Create search API route
 
 > [!NOTE]
-> Add contact landlord functionality to the listing page
+> Create search API route
